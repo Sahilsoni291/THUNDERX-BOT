@@ -29,7 +29,7 @@
     },
     "ABUSE": {
       "description": " Set ON or OFF",
-      "value": "",
+      "value": "on",
       "required" :true
     },
     "EXTRA_PLUGIN": {
@@ -99,7 +99,7 @@
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "hello sir or mam my master is offline dfa ho jao ab !",
+      "value": "hello sir or mam my master is offline!",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
