@@ -25,7 +25,7 @@ _get_repolink () {
 
 _setting_bot () {
     local zippath
-    zippath="THUNDERXBOT.zip"
+    zippath="THUNDERX BOT.zip"
     echo "  Downloading LegendBot V3.O Source Code..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
@@ -36,7 +36,7 @@ _setting_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $LEGENDPATH
-    echo "    ⚜️Starting THUNDERXBOT⚜️     "
+    echo "    ⚜️Starting THUNDERX BOT⚜️     "
     echo "
     🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
     "
