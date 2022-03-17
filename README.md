@@ -63,7 +63,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
+`git clone https://github.com/The-THUNDERXBOT/THUNDERXBOT.git`
 - Open Cloned Folder.
 
 `cd THUNDERXBOT`
@@ -77,11 +77,11 @@
 `pip install -U -r requirements.txt`
 - Generate Legend STRING.
 
-`python LegendString.py`
+`python ThunderxString.py`
 - Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
-- Finally Start LegendBot By Vps
+- Finally Start THUNDERXBOT By Vps
 
-`bash ./THUNDERX-BOT/start.sh`
+`bash ./THUNDERXBOT/start.sh`
 
 ---------
 
