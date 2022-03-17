@@ -2,24 +2,24 @@
 <b> ⚡ 𝐓𝐇𝐔𝐍𝐃𝐄𝐑𝐗 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 ⚡ </b>
 </h1>
 
-[![THUNDERXBOT](https://telegra.ph/file/0eb7244a93939549869c0.jpg)](https://github.com/Sahilsoni291/THUNDERX BOT)
+[![THUNDERX-BOT](https://telegra.ph/file/0eb7244a93939549869c0.jpg)](https://github.com/Sahilsoni291/THUNDERX BOT)
 
 <h6 align="center">
-  <b>⚡ THUNDERX BOT Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b>⚡ THUNDERX-BOT Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
 </h6>
 
 <p align="center">
-<a href="https://github.com/Sahilsoni/THUNDERX BOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/Sahilsoni291/THUNDERX BOT?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/Sahilsoni291/THUNDERX BOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/Sahilsoni291/THUNDERX BOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/Sahilsoni291/THUNDERX BOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/Sahilsoni291/THUNDERX BOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/Sahilsoni291/THUNDERX BOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/Sahilsoni291/THUNDERX BOT?color=success" /> </a>
-<a href="https://github.com/Sahilsoni291/THUNDERX BOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/Sahilsoni291/THUNDERX BOT?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/Sahilsoni/THUNDERX-BOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/Sahilsoni291/THUNDERX-BOT?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/Sahilsoni291/THUNDERX-BOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/Sahilsoni291/THUNDERX-BOT?style=flat&logo=github" /> </a>
+<a href="https://github.com/Sahilsoni291/THUNDERX-BOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/Sahilsoni291/THUNDERX-BOT?label=Forks&logo=github" /> </a>
+<a href="https://github.com/Sahilsoni291/THUNDERX-BOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/Sahilsoni291/THUNDERX-BOT?color=success" /> </a>
+<a href="https://github.com/Sahilsoni291/THUNDERX-BOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/Sahilsoni291/THUNDERX-BOT?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/Sahilsoni291/THUNDERX BOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/Sahilsoni291/THUNDERX" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/Sahilsoni291/THUNDERX BOT" /> </a>
-<a href="https://github.com/Sahilsoni291/THUNDERX BOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+<a href="https://github.com/Sahilsoni291/THUNDERX-BOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/Sahilsoni291/THUNDERX-BOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/Sahilsoni291/THUNDERX BOT" /> </a>
+<a href="https://github.com/Sahilsoni291/THUNDERX-BOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
 <a href="https://t.me/Legend_Userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
@@ -30,7 +30,7 @@
 ------
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/Sahilsoni291/THUNDERX BOT/network/members"><img src="https://img.shields.io/github/forks/Sahilsoni291/THUNDERX BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Sahilsoni291/THUNDERX BOT/stargazers"><img src="https://img.shields.io/github/stars/sahilsoni291/THUNDERX BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Sahilsoni291/THUNDERX BOT"></a><p align="left"><a href="https://github.com/Sahilsoni291/THUNDERX BOT?"></a>
+    <a href="https://github.com/Sahilsoni291/THUNDERX-BOT/network/members"><img src="https://img.shields.io/github/forks/Sahilsoni291/THUNDERX-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Sahilsoni291/THUNDERX-BOT/stargazers"><img src="https://img.shields.io/github/stars/sahilsoni291/THUNDERX-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Sahilsoni291/THUNDERX-BOT"></a><p align="left"><a href="https://github.com/Sahilsoni291/THUNDERX-BOT?"></a>
 
 ------
 ## Telegram 🏪
@@ -57,7 +57,7 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
+- [Deploy](https://heroku.com/deploy/)
 
 ## Deploy Locally
 
@@ -81,7 +81,7 @@
 - Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
 - Finally Start LegendBot By Vps
 
-`bash ./LEGENDBOT/start.sh`
+`bash ./THUNDERX-BOT/start.sh`
 
 ---------
 
