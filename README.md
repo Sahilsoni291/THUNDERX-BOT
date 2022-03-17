@@ -2,7 +2,7 @@
 <b> ⚡ 𝐓𝐇𝐔𝐍𝐃𝐄𝐑𝐗 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 ⚡ </b>
 </h1>
 
-[![THUNDERX-BOT](https://telegra.ph/file/0eb7244a93939549869c0.jpg)](https://github.com/Sahilsoni291/THUNDERX BOT)
+[![THUNDERXBOT](https://telegra.ph/file/0eb7244a93939549869c0.jpg)](https://github.com/Sahilsoni291/THUNDERXBOT)
 
 <h6 align="center">
   <b>⚡ THUNDERX-BOT Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
