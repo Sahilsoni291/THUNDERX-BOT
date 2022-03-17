@@ -1,1 +1,1 @@
-worker: bash thunderxbot
+worker: bash THUNDERXBOT
