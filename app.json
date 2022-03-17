@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Sahilsoni291/THUNDERX BOT/",
-  "website": "https://github.com/Sahilsoni291/THUNDERX BOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "repository": "https://github.com/Sahilsoni291/THUNDERX-BOT/",
+  "website": "https://github.com/Sahilsoni291/THUNDERX-BOT/",
+  "success_url": "https://t.me/THUNDERX_SUPPORT",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
