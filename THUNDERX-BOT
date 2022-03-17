@@ -3,12 +3,12 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $THUNDERX_REPO == "LEGENDBOT" ]]
+    if [[ $THUNDERX_REPO == "THUNDERX-BOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1MZWdlbmRCb3QvTEVHRU5EVVNFUkJPVC9hcmNoaXZlL0xlZ2VuZEJvdC56aXA=" | base64 -d
-    elif [[ $THUNDERx_REPO == "LEGENDBOT" ]]
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1NhaGlsc29uaTI5MS9USFVOREVSWC1CT1QvYmxvYi9tYXN0ZXIvVEhVTkRFUlgtQk9U" | base64 -d
+    elif [[ $THUNDERX_REPO == "THUNDERX-BOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1MZWdlbmRCb3QvTEVHRU5EVVNFUkJPVC9hcmNoaXZlL0xlZ2VuZEJvdC56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1NhaGlsc29uaTI5MS9USFVOREVSWC1CT1QvYmxvYi9tYXN0ZXIvVEhVTkRFUlgtQk9U" | base64 -d
     elif [[ $THUNDERX_REPO =~ $regex ]]
     then
         if [[ $THUNDERX_REPO_BRANCH ]]
@@ -18,7 +18,7 @@ _get_repolink () {
             echo "${THUNDERX_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1MZWdlbmRCb3QvTEVHRU5EVVNFUkJPVC9hcmNoaXZlL0xlZ2VuZEJvdC56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1NhaGlsc29uaTI5MS9USFVOREVSWC1CT1QvYmxvYi9tYXN0ZXIvVEhVTkRFUlgtQk9U" | base64 -d
     fi
 }
 
