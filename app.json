@@ -25,7 +25,7 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": '' THUNDERX-BOT is Online",
+      "value": '' ,
       "required": false
     },
     "ABUSE": {
