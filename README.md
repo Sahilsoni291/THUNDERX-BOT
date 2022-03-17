@@ -9,28 +9,28 @@
 </h6>
 
 <p align="center">
-<a href="https://github.com/Sahilsoni/THUNDERX-BOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/Sahilsoni291/THUNDERX-BOT?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/Sahilsoni291/THUNDERX-BOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/Sahilsoni291/THUNDERX-BOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/Sahilsoni291/THUNDERX-BOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/Sahilsoni291/THUNDERX-BOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/Sahilsoni291/THUNDERX-BOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/Sahilsoni291/THUNDERX-BOT?color=success" /> </a>
-<a href="https://github.com/Sahilsoni291/THUNDERX-BOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/Sahilsoni291/THUNDERX-BOT?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/Sahilsoni/THUNDERXBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/Sahilsoni291/THUNDERXBOT?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/Sahilsoni291/THUNDERXBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/Sahilsoni291/THUNDERXBOT?style=flat&logo=github" /> </a>
+<a href="https://github.com/Sahilsoni291/THUNDERXBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/Sahilsoni291/THUNDERX-BOT?label=Forks&logo=github" /> </a>
+<a href="https://github.com/Sahilsoni291/THUNDERXBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/Sahilsoni291/THUNDERXBOT?color=success" /> </a>
+<a href="https://github.com/Sahilsoni291/THUNDERXBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/Sahilsoni291/THUNDERXBOT?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/Sahilsoni291/THUNDERX-BOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/Sahilsoni291/THUNDERX-BOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/Sahilsoni291/THUNDERX BOT" /> </a>
-<a href="https://github.com/Sahilsoni291/THUNDERX-BOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+<a href="https://github.com/Sahilsoni291/THUNDERXBOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/Sahilsoni291/THUNDERXBOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/Sahilsoni291/THUNDERX BOT" /> </a>
+<a href="https://github.com/Sahilsoni291/THUNDERXBOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://t.me/Legend_Userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/Sahilsoni291/THUNDERX BOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
+<a href="https://t.me/THUNDERX_SUPPORT" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://github.com/Sahilsoni291/THUNDERXBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
 ------
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/Sahilsoni291/THUNDERX-BOT/network/members"><img src="https://img.shields.io/github/forks/Sahilsoni291/THUNDERX-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Sahilsoni291/THUNDERX-BOT/stargazers"><img src="https://img.shields.io/github/stars/sahilsoni291/THUNDERX-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Sahilsoni291/THUNDERX-BOT"></a><p align="left"><a href="https://github.com/Sahilsoni291/THUNDERX-BOT?"></a>
+    <a href="https://github.com/Sahilsoni291/THUNDERXBOT/network/members"><img src="https://img.shields.io/github/forks/Sahilsoni291/THUNDERX-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Sahilsoni291/THUNDERX-BOT/stargazers"><img src="https://img.shields.io/github/stars/sahilsoni291/THUNDERX-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Sahilsoni291/THUNDERX-BOT"></a><p align="left"><a href="https://github.com/Sahilsoni291/THUNDERX-BOT?"></a>
 
 ------
 ## Telegram 🏪
